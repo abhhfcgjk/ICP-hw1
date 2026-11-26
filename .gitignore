@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.gz
+/tmp/
+datasets
+__pycache__
+*.zip
+*.tex
+*.pdf
